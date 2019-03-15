@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_common/pinggou_common.iml" filepath="$PROJECT_DIR$/pinggou_common/pinggou_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_dao/pinggou_dao.iml" filepath="$PROJECT_DIR$/pinggou_dao/pinggou_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_interface/pinggou_interface.iml" filepath="$PROJECT_DIR$/pinggou_interface/pinggou_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_pojo/pinggou_pojo.iml" filepath="$PROJECT_DIR$/pinggou_pojo/pinggou_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_service_buyer/pinggou_service_buyer.iml" filepath="$PROJECT_DIR$/pinggou_service_buyer/pinggou_service_buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_service_page1/pinggou_service_page1.iml" filepath="$PROJECT_DIR$/pinggou_service_page1/pinggou_service_page1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_service_search/pinggou_service_search.iml" filepath="$PROJECT_DIR$/pinggou_service_search/pinggou_service_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_service_sellergoods/pinggou_service_sellergoods.iml" filepath="$PROJECT_DIR$/pinggou_service_sellergoods/pinggou_service_sellergoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_service_user/pinggou_service_user.iml" filepath="$PROJECT_DIR$/pinggou_service_user/pinggou_service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_web_manager1/pinggou_web_manager1.iml" filepath="$PROJECT_DIR$/pinggou_web_manager1/pinggou_web_manager1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_web_page/pinggou_web_page.iml" filepath="$PROJECT_DIR$/pinggou_web_page/pinggou_web_page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_web_portal/pinggou_web_portal.iml" filepath="$PROJECT_DIR$/pinggou_web_portal/pinggou_web_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinggou_web_shop/pinggou_web_shop.iml" filepath="$PROJECT_DIR$/pinggou_web_shop/pinggou_web_shop.iml" />
+    </modules>
+  </component>
+</project>

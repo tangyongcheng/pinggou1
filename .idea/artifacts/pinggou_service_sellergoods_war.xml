@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinggou_service_sellergoods:war">
+    <output-path>$PROJECT_DIR$/pinggou_service_sellergoods/target</output-path>
+    <root id="archive" name="pinggou_service_sellergoods.war">
+      <element id="artifact" artifact-name="pinggou_service_sellergoods:war exploded" />
+    </root>
+  </artifact>
+</component>

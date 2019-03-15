@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinggou_common" />
+        <module name="pinggou_dao" />
+        <module name="pinggou_interface" />
+        <module name="pinggou_page" />
+        <module name="pinggou_pojo" />
+        <module name="pinggou_service_buyer" />
+        <module name="pinggou_service_page1" />
+        <module name="pinggou_service_search" />
+        <module name="pinggou_service_sellergoods" />
+        <module name="pinggou_service_user" />
+        <module name="pinggou_web_manager1" />
+        <module name="pinggou_web_page" />
+        <module name="pinggou_web_portal" />
+        <module name="pinggou_web_shop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parent" target="1.7" />
+      <module name="pinggou_common" target="1.7" />
+      <module name="pinggou_dao" target="1.8" />
+      <module name="pinggou_interface" target="1.8" />
+      <module name="pinggou_page" target="1.7" />
+      <module name="pinggou_pojo" target="1.8" />
+      <module name="pinggou_service_buyer" target="1.7" />
+      <module name="pinggou_service_page" target="1.7" />
+      <module name="pinggou_service_page1" target="1.7" />
+      <module name="pinggou_service_search" target="1.7" />
+      <module name="pinggou_service_sellergoods" target="1.7" />
+      <module name="pinggou_service_user" target="1.7" />
+      <module name="pinggou_web_manager" target="1.7" />
+      <module name="pinggou_web_manager1" target="1.7" />
+      <module name="pinggou_web_page" target="1.7" />
+      <module name="pinggou_web_portal" target="1.7" />
+      <module name="pinggou_web_shop" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
