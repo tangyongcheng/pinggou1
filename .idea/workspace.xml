@@ -6,9 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a056758a-e52d-4781-8ea5-be2f224b39bb" name="Default" comment="提交pinggou">
+    <list default="true" id="a056758a-e52d-4781-8ea5-be2f224b39bb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" />
       <change beforePath="$PROJECT_DIR$/pinggou_dao/target/classes/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/pinggou_dao/target/classes/spring/applicationContext.xml" />
       <change beforePath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_dao-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_interface-1.0-SNAPSHOT.jar" />
@@ -623,12 +622,20 @@
       <workItem from="1552697983571" duration="1144000" />
       <workItem from="1552699164608" duration="322000" />
       <workItem from="1552699782337" duration="3605000" />
-      <workItem from="1552709072658" duration="2131000" />
+      <workItem from="1552709072658" duration="2183000" />
     </task>
+    <task id="LOCAL-00001" summary="提交pinggou">
+      <created>1552716848406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552716848407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40929000" />
+    <option name="totallyTimeSpent" value="40981000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
