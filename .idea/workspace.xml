@@ -2,254 +2,21 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="pinggou_service_sellergoods:war exploded" />
+      <artifact name="pinggou_web_manager1:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a056758a-e52d-4781-8ea5-be2f224b39bb" name="Default" comment="提交pinggou">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/parent_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/parent_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_common_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_common_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_page_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_page_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_buyer_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_buyer_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_page1_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_page1_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_search_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_search_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_sellergoods_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_sellergoods_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_user_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_service_user_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_manager1_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_manager1_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_page_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_page_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_portal_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_portal_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_shop_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pinggou_web_shop_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ca_juliusdavies_not_yet_commons_ssl_0_3_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_8_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_1_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_11_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_santuario_xmlsec_1_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15_1_45.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_fastdfs_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_cas_client_cas_client_core_3_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_opensaml_2_5_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_openws_1_4_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_xmltooling_1_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_owasp_esapi_esapi_2_0GA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_solr_1_5_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_cas_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/parent.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_common/pinggou_common.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_common/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_common/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_common/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/pinggou_dao.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/ad/ContentCategoryDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/ad/ContentDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/address/AddressDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/address/AreasDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/address/CitiesDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/address/ProvincesDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/good/BrandDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/good/GoodsDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/good/GoodsDescDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/item/ItemCatDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/item/ItemDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/log/PayLogDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/order/OrderDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/order/OrderItemDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/seckill/SeckillGoodsDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/seckill/SeckillOrderDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/seller/SellerDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/specification/SpecificationDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/specification/SpecificationOptionDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/template/FreightTemplateDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/template/TypeTemplateDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/user/UserDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/resources/mybatis/SqlMapConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/resources/properties/jdbc.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_interface/pinggou_interface.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_interface/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_interface/src/main/java/cn/itcast/core/service/BrandService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/pinggou_pojo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/ad/Content.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/ad/ContentCategory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/ad/ContentCategoryQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/ad/ContentQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/Address.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/AddressQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/Areas.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/AreasQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/Cities.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/CitiesQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/Provinces.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/address/ProvincesQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/Brand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/BrandQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/Goods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/GoodsDesc.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/GoodsDescQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/GoodsQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/item/Item.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/item/ItemCat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/item/ItemCatQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/item/ItemQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/log/PayLog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/log/PayLogQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/order/Order.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/order/OrderItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/order/OrderItemQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/order/OrderQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/seckill/SeckillGoods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/seckill/SeckillGoodsQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/seckill/SeckillOrder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/seckill/SeckillOrderQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/seller/Seller.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/seller/SellerQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/specification/Specification.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/specification/SpecificationOption.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/specification/SpecificationOptionQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/specification/SpecificationQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/template/FreightTemplate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/template/FreightTemplateQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/template/TypeTemplate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/template/TypeTemplateQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/user/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/user/UserQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_buyer/pinggou_service_buyer.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_buyer/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_buyer/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_buyer/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_page1/pinggou_service_page1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_page1/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_page1/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_page1/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_search/pinggou_service_search.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_search/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_search/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_search/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/pinggou_service_sellergoods.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/java/cn/itcast/core/service/BrandServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_service.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_tx.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_user/pinggou_service_user.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_user/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_user/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_service_user/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_manager1/pinggou_web_manager1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_manager1/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_manager1/src/main/java/cn/itcast/core/controller/brand/BrandController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_manager1/src/main/resources/spring/springMVC.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_manager1/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_manager1/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_page/pinggou_web_page.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_page/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_page/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_page/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_portal/pinggou_web_portal.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_portal/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_portal/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_portal/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_shop/pinggou_web_shop.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_shop/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_shop/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinggou_web_shop/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/pinggou_dao/target/classes/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/pinggou_dao/target/classes/spring/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_service_sellergoods/target/pinggou_service_sellergoods/WEB-INF/lib/pinggou_pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/pinggou_web_manager1/target/classes/spring/springMVC.xml" afterPath="$PROJECT_DIR$/pinggou_web_manager1/target/classes/spring/springMVC.xml" />
+      <change beforePath="$PROJECT_DIR$/pinggou_web_manager1/target/pinggou_web_manager1/WEB-INF/classes/spring/springMVC.xml" afterPath="$PROJECT_DIR$/pinggou_web_manager1/target/pinggou_web_manager1/WEB-INF/classes/spring/springMVC.xml" />
+      <change beforePath="$PROJECT_DIR$/pinggou_web_manager1/target/pinggou_web_manager1/WEB-INF/lib/pinggou_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_web_manager1/target/pinggou_web_manager1/WEB-INF/lib/pinggou_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/pinggou_web_manager1/target/pinggou_web_manager1/WEB-INF/lib/pinggou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinggou_web_manager1/target/pinggou_web_manager1/WEB-INF/lib/pinggou_pojo-1.0-SNAPSHOT.jar" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -276,12 +43,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="parent" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pinggou_web_manager1/src/main/java/cn/itcast/core/controller/brand/BrandController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
+            <state relative-caret-position="495">
               <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="e#570#571#0" expanded="true" />
@@ -291,14 +61,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrandServiceImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#713#729#0" expanded="true" />
+                <element signature="e#767#780#0" expanded="true" />
+                <element signature="e#823#841#0" expanded="true" />
+                <element signature="e#884#902#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlMapConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/mybatis/SqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/properties/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/java/cn/itcast/core/service/BrandServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="363">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/good/BrandDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext_tx.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_tx.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext_service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -357,8 +192,8 @@
         <option value="$PROJECT_DIR$/pinggou_web_manager1/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pinggou_dao/src/main/resources/properties/jdbc.properties" />
         <option value="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/java/cn/itcast/core/service/BrandServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" />
         <option value="$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_service.xml" />
+        <option value="$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -386,12 +221,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="pinggou_web_shop Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -399,7 +229,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="322" />
     <option name="y" value="2" />
     <option name="width" value="1267" />
@@ -421,9 +251,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -431,22 +261,74 @@
               <item name="parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinggou_web_manager1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubbox_web" />
     <property name="ToolWindowDebug.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
@@ -470,7 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.web_managei">
+  <component name="RunManager" selected="Tomcat Server.web_manager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -558,8 +440,10 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="service_sells" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.5" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
+    <configuration name="server_sells" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.5" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="pinggou_service_sellergoods:war exploded">
           <settings>
@@ -568,7 +452,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_parent" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_parent_3" />
         <option name="HTTP_PORT" value="9001" />
         <option name="JNDI_PORT" value="1091" />
       </server-settings>
@@ -579,7 +463,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="62665" />
+        <option name="DEBUG_PORT" value="50580" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -632,8 +516,9 @@
         </option>
       </method>
     </configuration>
-    <configuration name="web_managei" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.5" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
+    <configuration name="web_manager" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.5" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="pinggou_web_manager1:war exploded">
           <settings>
@@ -642,7 +527,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_parent_2" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_parent_4" />
         <option name="HTTP_PORT" value="9101" />
         <option name="JNDI_PORT" value="1092" />
       </server-settings>
@@ -653,7 +538,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="62730" />
+        <option name="DEBUG_PORT" value="50669" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -713,8 +598,8 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.service_sells" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.web_managei" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.server_sells" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.web_manager" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -733,12 +618,17 @@
       <workItem from="1552565011082" duration="4472000" />
       <workItem from="1552569741913" duration="743000" />
       <workItem from="1552631048831" duration="810000" />
-      <workItem from="1552631900014" duration="24190000" />
+      <workItem from="1552631900014" duration="25490000" />
+      <workItem from="1552695717974" duration="2212000" />
+      <workItem from="1552697983571" duration="1144000" />
+      <workItem from="1552699164608" duration="322000" />
+      <workItem from="1552699782337" duration="3605000" />
+      <workItem from="1552709072658" duration="2131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30215000" />
+    <option name="totallyTimeSpent" value="40929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,39 +640,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="322" y="2" width="1267" height="1038" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32725322" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3490566" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20922747" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30565166" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="28" y="592" width="1864" height="383" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4787736" sideWeight="0.47961372" order="3" side_tool="false" content_ui="tabs" x="28" y="592" width="1864" height="383" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3490566" sideWeight="0.49570817" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.8677536" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.13224638" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.222103" sideWeight="0.13787879" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -823,18 +713,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
       <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pinggou_web_manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinggou_interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -878,20 +764,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_web_manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_service_page/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="772">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_web_manager/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pinggou_service_page/pom.xml" />
     <entry file="file://$PROJECT_DIR$/pinggou_service_buyer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -917,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="189" column="19" lean-forward="false" selection-start-line="189" selection-start-column="19" selection-end-line="189" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
           <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -949,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,7 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,7 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -973,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,7 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,7 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,15 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-726">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,19 +972,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/good/BrandDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/utils/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1149,28 +983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/properties/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#713#729#0" expanded="true" />
-            <element signature="e#767#780#0" expanded="true" />
-            <element signature="e#823#841#0" expanded="true" />
-            <element signature="e#884#902#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1178,31 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_tx.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="5" column="107" lean-forward="true" selection-start-line="5" selection-start-column="107" selection-end-line="5" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinggou_web_manager1/src/main/resources/spring/springMVC.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1317">
-          <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,9 +1001,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_web_manager1/src/main/resources/spring/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pinggou_web_manager1/src/main/java/cn/itcast/core/controller/brand/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
+        <state relative-caret-position="495">
           <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="e#570#571#0" expanded="true" />
@@ -1225,13 +1028,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_pojo/src/main/java/cn/itcast/core/pojo/good/BrandQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/java/cn/itcast/core/service/BrandServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="363">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/java/cn/itcast/core/dao/good/BrandDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#713#729#0" expanded="true" />
+            <element signature="e#767#780#0" expanded="true" />
+            <element signature="e#823#841#0" expanded="true" />
+            <element signature="e#884#902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/properties/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_dao/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinggou_service_sellergoods/src/main/resources/spring/applicationContext_tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
