@@ -30,7 +30,7 @@
     <!--配置注册中心-->
     <dubbo:registry address="zookeeper://192.168.200.128:2181"/>
     <!--配置扫描器-->
-    <dubbo:annotation package="cn.itcast.core.controller.brand"/>
+    <dubbo:annotation package="cn.itcast.core.controller"/>
     <!--设置全局超时时间 check="false不检查提供方-->
     <dubbo:consumer timeout="600000" check="false"/>
     <!---->

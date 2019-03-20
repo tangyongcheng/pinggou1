@@ -6,6 +6,9 @@
         <fileset id="fileset" name="ApplicationContext" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/spring/applicationContext.xml</file>
         </fileset>
+        <fileset id="fileset3" name="ApplicationContext_dao" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/applicationContext_dao.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>

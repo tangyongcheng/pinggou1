@@ -2,6 +2,7 @@ package cn.itcast.core.dao.specification;
 
 import cn.itcast.core.pojo.specification.SpecificationOption;
 import cn.itcast.core.pojo.specification.SpecificationOptionQuery;
+import cn.itcast.core.pojo.specification.SpecificationQuery;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
@@ -16,8 +17,10 @@ public interface SpecificationOptionDao {
     int insert(SpecificationOption record);
 
     int insertSelective(SpecificationOption record);
+    //创建批量插入
+    void insertSelectives(List<SpecificationOption> specificationOptionList);
 
-    List<SpecificationOption> selectByExample(SpecificationOptionQuery example);
+    List<SpecificationOption> selectByExample(SpecificationQuery example);
 
     SpecificationOption selectByPrimaryKey(Long id);
 
